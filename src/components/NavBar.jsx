@@ -4,7 +4,7 @@ function NavBar() {
   return (
     <nav className="nav">
       <Link to="/" className="math-magic">
-        Math Magicians
+        Mathe Magicians
       </Link>
       <ul>
         <li>
